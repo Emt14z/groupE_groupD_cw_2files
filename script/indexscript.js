@@ -38,4 +38,3 @@ $(document).ready(function() {
         }
     });
 });
-console.log(JSON.parse(localStorage.getItem('reservations')));
